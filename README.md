@@ -21,7 +21,7 @@ The app also works perfectly on `linux` through `wine` (was tested on `Ubuntu 22
 
 ```sh
 sudo apt install wine -y 
-wine release/dsgen.exe
+wine release/seator-chemistry.exe
 ```
 
 The app can be run on android as well (requires `Adobe Air`).
